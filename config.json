@@ -88,14 +88,9 @@
   },
   "custom_category": [
     {
-      "name": "中国动漫",
+      "name": "动漫",
       "type": "tv",
-      "query": "中国动漫"
-    },
-    {
-      "name": "日本动漫",
-      "type": "tv",
-      "query": "日本动漫"
+      "query": "动漫"
     }
   ]
 }
